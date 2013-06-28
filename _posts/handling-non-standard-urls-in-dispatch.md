@@ -1,7 +1,7 @@
 title: Handling Non-Standard URLs in Dispatch
 date: 2013-28-06
 author: Brandon Hudgeons
-tags: [scala, ]
+tags: [scala, dispatch, databinder, bhudgeons]
 
 #Handling Non-Standard URLs in Dispatch
 ##a code adventure
