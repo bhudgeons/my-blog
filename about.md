@@ -1,10 +1,14 @@
 ## About 
 
-I blog here.  This is a page that tells people about me.
+[https://twitter.com/bhudgeons](https://twitter.com/bhudgeons)
+[http://www.linkedin.com/in/bhudgeons](http://www.linkedin.com/in/bhudgeons)
+[https://github.com/bhudgeons](https://github.com/bhudgeons)
+
+
 
 ## Contact Me
 
-You can put some contact information here
+brandon at atsoft dot at
 
 [title: About]: /
 [order: 20]: /
