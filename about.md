@@ -1,7 +1,9 @@
 ## About 
 
 [https://twitter.com/bhudgeons](https://twitter.com/bhudgeons)
+
 [http://www.linkedin.com/in/bhudgeons](http://www.linkedin.com/in/bhudgeons)
+
 [https://github.com/bhudgeons](https://github.com/bhudgeons)
 
 
