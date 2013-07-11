@@ -59,16 +59,13 @@ Note: using this as a code generation tool is a temporary thing.  [Amir Shaikhha
 
 But, in any case, it was useful to me now, so I thought it might be useful to someone else. Even if it doesn't work perfectly, you'll likely be a lot closer with what gets generated than with starting at zero.  Cheers.
 
-####Demo One: The Slick Migration Proof of Concept
+*Here are two YouTube videos with demos.  Be sure to switch the player to HD!*
 
-<iframe id="ytplayer" type="text/html" width="640" height="390"
-  src="http://www.youtube.com/embed/J9DJ9jjhxn0?autoplay=0&origin=https://bhudgeons.telegr.am/blog_posts/slick-tool-for-db-schema-generation"
-  frameborder="0"/>
+####[Demo One: The Slick Migration Proof of Concept](http://www.youtube.com/watch?v=J9DJ9jjhxn0)
 
 
-####Demo Two: Using Slick Code Generation on a MySQL Database
 
 
-<iframe id="ytplayer2" type="text/html" width="640" height="390"
-  src="http://www.youtube.com/embed/wUZg28hca6s?autoplay=0&origin=https://bhudgeons.telegr.am/blog_posts/slick-tool-for-db-schema-generation"
-  frameborder="0"/>
+####[Demo Two: Using Slick Code Generation on a MySQL Database](http://www.youtube.com/watch?v=wUZg28hca6)
+
+
