@@ -61,9 +61,14 @@ But, in any case, it was useful to me now, so I thought it might be useful to so
 
 ####Demo One: The Slick Migration Proof of Concept
 
-[Coming]
+<iframe id="ytplayer" type="text/html" width="640" height="390"
+  src="http://www.youtube.com/embed/J9DJ9jjhxn0?autoplay=0&origin=https://bhudgeons.telegr.am/blog_posts/slick-tool-for-db-schema-generation"
+  frameborder="0"/>
+
 
 ####Demo Two: Using Slick Code Generation on a MySQL Database
 
 
-[Coming]
+<iframe id="ytplayer2" type="text/html" width="640" height="390"
+  src="http://www.youtube.com/embed/wUZg28hca6s?autoplay=0&origin=https://bhudgeons.telegr.am/blog_posts/slick-tool-for-db-schema-generation"
+  frameborder="0"/>
