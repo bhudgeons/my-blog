@@ -45,7 +45,7 @@ This is a problem that I was facing when I ran across a very cool thing.
 
 In case you didn't know it, [your database should be under version control](http://www.codinghorror.com/blog/2008/02/get-your-database-under-version-control.html).  You might be doing this with scripts.  Or, maybe you're using a tool like [Liquibase](http://www.liquibase.org/).  If you're working on a legacy codebase, your schema management may be a database dude at a mysql prompt.
 
-[Christopher Voght](https://github.com/cvogt) from the [Slick](http://slick.typesafe.com/) team at [Typesafe](http://typesafe.com/) (as in the company, uppercase) recently built a proof-of-concept for a database migration library that will allow Slick users to keep database migrations in code in a sane and type-safe (lowercase, as in safety-with-types) way.  
+[Christopher Vogt](https://github.com/cvogt) from the [Slick](http://slick.typesafe.com/) team at [Typesafe](http://typesafe.com/) (as in the company, uppercase) recently built a proof-of-concept for a database migration library that will allow Slick users to keep database migrations in code in a sane and type-safe (lowercase, as in safety-with-types) way.  
 
 To those of us who have had to deal with database migration nightmares in the past, this sounds good.  Even though it is just in proof-of-concept stage, it looks even better than it sounds -- see my video below.  You write your database migrations in code where they can be automatically applied, and then the library introspects the resulting database to generate the `Table` code for all of your database tables.  
 
@@ -66,6 +66,6 @@ But, in any case, it was useful to me now, so I thought it might be useful to so
 
 
 
-####[Demo Two: Using Slick Code Generation on a MySQL Database](http://www.youtube.com/watch?v=wUZg28hca6)
+####[Demo Two: Using Slick Code Generation on a MySQL Database](http://www.youtube.com/watch?v=wUZg28hca6s)
 
 
