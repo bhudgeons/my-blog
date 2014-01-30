@@ -33,7 +33,7 @@ Now, Mr. Roosevelt, he dragged more he-school marms out of the little red houses
 
 Republican presidents, they never went in much for plans. They only had one plan. It said, now, boys, my head is turned, just get it while you can. Somebody came along and they used that. It was a [plan to plough under part of the cotton](http://en.wikipedia.org/wiki/Agricultural_Adjustment_Act). We did, and nations like Brazil found out where we ploughed it under, and they came along and dug it up, and now they've got more cotton than we have. Somebody had a [plan to teach hogs birth control](http://www.lib.niu.edu/1993/ihy930578.html), and now it's a habit with them. You can go out and find a deer quicker than you can a hog.
 
-So plans just don't work. If they're milk and honey for you, they are poison ivy to somebody else. NRA, that was a fine plan. It was based on the theory that everybody that had could help those that hadn't. But the minute we found out that while it might be helping other men, it certainly wasn't helping us, it blew up. If it wasn't helping us, why it wasn't so hot.
+So plans just don't work. If they're milk and honey for you, they are poison ivy to somebody else. [NRA](http://en.wikipedia.org/wiki/National_Recovery_Administration), that was a fine plan. It was based on the theory that everybody that had could help those that hadn't. But the minute we found out that while it might be helping other men, it certainly wasn't helping us, it blew up. If it wasn't helping us, why it wasn't so hot.
 
 So if you hear a man expounding a plan over the radio, run, don't walk, to the nearest dial and tune him right into the ground. And the plan will go right back into the nut shell, where it belongs.
 
