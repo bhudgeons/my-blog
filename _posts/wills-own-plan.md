@@ -1,4 +1,4 @@
-title: A Slick Tool for Database Schema Generation
+title: Will's Own Plan
 date: 2014-29-07
 author: Brandon Hudgeons
 tags: [will, rogers, migrations, mysql, bhudgeons]
